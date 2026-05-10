@@ -7,4 +7,4 @@ Solved 25+ DSA problems across :
 
 **Currently focusing on :
 - Binary Search on Answers
-- Problems Optimization
+- Problem Optimization
